@@ -18,4 +18,4 @@ This project started with data sourced from GitHub, followed by a meticulous pro
 The final result is a visually appealing and informative dashboard with well-thought-out charts. Check it out and let me know your thoughts!
 
 
-![new](https://github.com/Karishma48/blinkit.png/assets/168215245/20e0193d-9e4e-4dfe-8a99-f5dbc0333fff)
+![new](https://github.com/Karishma48/Blinkit-Dashboard/assets/168215245/20e0193d-9e4e-4dfe-8a99-f5dbc0333fff)
