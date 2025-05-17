@@ -16,3 +16,6 @@ In addition, I created a comprehensive Table that visualizes Total Sales, No. of
 This project started with data sourced from GitHub, followed by a meticulous process of cleaning, organizing, and performing operations that make a real impact. The inclusion of slicers adds an extra layer of interactivity, making the dashboard even more user-friendly.
 
 The final result is a visually appealing and informative dashboard with well-thought-out charts. Check it out and let me know your thoughts!
+
+
+![new](https://github.com/Karishma48/blinkit.png/assets/168215245/20e0193d-9e4e-4dfe-8a99-f5dbc0333fff)
